@@ -1,8 +1,8 @@
 Markov Chains - A mathematical system that undergoes transitions from one state to another according to certain probalistic rules. Note that a key feature is the probability of transiting to any particular state depends on <u>only the current state. NOT preceeding states.</u>
 
 Here:
-$'{X_k,k\epsilon\mathbb{N}}'$
-Where $'X_k'$ is the state of the process at time <i>k<i>
+$'/{X_k,k\epsilon\mathbb{N}/}'$
+Where $'X_k'$ is the state of the process at time <i>k</i>
 and <i>k<i> is a part of all integers
 
 From here, we can make a markov chain
