@@ -3,7 +3,7 @@ Markov Chains - A mathematical system that undergoes transitions from one state 
 Here:
 $'/{X_k,k\epsilon\mathbb{N}/}'$
 Where $'X_k'$ is the state of the process at time <i>k</i>
-and <i>k<i> is a part of all integers
+and <i>k</i> is a part of all integers
 
 From here, we can make a markov chain
 
@@ -22,7 +22,7 @@ P_31 & P_32 & P_33
 \end{pmatrix}
 $$
 
-The rows of the matrix must equal to 1 (hence, the matrix is <i>row stochaitic<i>)
+The rows of the matrix must equal to 1 (hence, the matrix is <i>row stochaitic</i>)
  $$ P_11 + P_12 + P_13 = 1$$
 
 
