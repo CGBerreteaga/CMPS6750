@@ -9,7 +9,7 @@ From here, we can make a markov chain
 
 $'Pr(X_(k+1)=j\mid X_k=i)'$ <- This means probability of the next state equalling j given that the current state equals i, this is independant of any previous state.
 
-We can make a matrix of i (the current state) and j (the next state) states, with each part of the matrix showing the probability of the next state based on the current state $'P_ij'$.
+We can make a matrix of i (the current state) and j (the next state) states, with each part of the matrix showing the probability of the next state based on the current state $'P_(ij)'$.
 
 
 Note the Current State of the matrix are the rows
